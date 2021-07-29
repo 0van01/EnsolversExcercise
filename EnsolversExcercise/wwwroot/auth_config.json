@@ -1,0 +1,8 @@
+{
+  "domain": "dev-6lkvc-r7.us.auth0.com",
+  "clientId": "am2grQZdWqdEdaFY8FwQ9qrglkE9J29l",
+  "responseType": "code",
+  "audience": "https://ensolversmock",
+  "redirectUri": "https://localhost:44306/index.html",
+  "scope": "openid profile email"
+}
